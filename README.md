@@ -6,13 +6,13 @@ Top-notch Software Engineer proficient in Python/Django/Flask/FastAPI and Ruby o
 👯 I’m looking to collaborate on both short-term and long-term projects.
 🤔 I’m looking for help with web and mobile apps.
 📫 How to reach me: Upwork
-Technologies
 
-Python, Django, Flask, Django Rest Framework, FastAPI, Celery
-Ruby on Rails
-React.js, Next.js, JavaScript/TypeScript, Redux, Redux-Saga, Redux-Thunk, React Router, Axios, Jest, ESlint, Webpack, Babel
-LESS, SASS, SCSS, HMLT5, CSS3, Material UI, styled-components, Tailwind CSS
-MongoDB, MySQL, PostgreSQL, GraphQL + Apollo
-AWS, Firebase, Docker, Heroku
-Asana, Jira, Trello
-GitHub, BitBucket
+Technologies
+- Python, Django, Flask, Django Rest Framework, FastAPI, Celery
+- Ruby on Rails
+- React.js, Next.js, JavaScript/TypeScript, Redux, Redux-Saga, Redux-Thunk, React Router, Axios, Jest, ESlint, Webpack, Babel
+- LESS, SASS, SCSS, HMLT5, CSS3, Material UI, styled-components, Tailwind CSS
+- MongoDB, MySQL, PostgreSQL, GraphQL + Apollo
+- AWS, Firebase, Docker, Heroku
+- Asana, Jira, Trello
+- GitHub, BitBucket
