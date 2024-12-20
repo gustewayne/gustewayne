@@ -1,11 +1,11 @@
 
 Top-notch Software Engineer proficient in Python/Django/Flask/FastAPI and Ruby on Rails, with expertise in JavaScript, TypeScript, React, Next.js, and Node.js. Solving, problems, thriving in team settings, and communicating effectively are my strong suits.
 
-🔭 I’m currently working as an independent contractor.
-🌱 I’m always learning technologies
-👯 I’m looking to collaborate on both short-term and long-term projects.
-🤔 I’m looking for help with web and mobile apps.
-📫 How to reach me: Upwork
+- 🔭 I’m currently working as an independent contractor.
+- 🌱 I’m always learning technologies
+- 👯 I’m looking to collaborate on both short-term and long-term projects.
+- 🤔 I’m looking for help with web and mobile apps.
+- 📫 How to reach me: Upwork
 
 Technologies
 - Python, Django, Flask, Django Rest Framework, FastAPI, Celery
